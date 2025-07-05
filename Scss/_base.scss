@@ -1,0 +1,139 @@
+@use './variable';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.m-1{
+    margin: variable.$vx-12;
+}
+.btn-blue {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-600;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-blue-100 {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-100;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-blue-200 {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-200;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-blue-300 {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-300;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-blue-400 {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-400;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-blue-500 {
+    padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$blue-500;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+
+.btn-green-100{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-100;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-green-200{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-200;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-green-300{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-300;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-green-400{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-400;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-green-500{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-500;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-green{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$green-600;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+
+/* red-btn */
+
+.btn-red-100{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-100;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-red-200{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-200;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-red-300{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-300;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-red-400{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-400;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-red-500{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-500;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
+.btn-red{
+        padding: variable.$vx-12 variable.$vx-16;
+    background-color: variable.$red-600;
+    display: inline-block;
+    color: variable.$white;
+    border-radius: variable.$vx-6;
+}
